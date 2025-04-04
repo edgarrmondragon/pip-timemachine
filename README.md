@@ -10,7 +10,7 @@ installing the same packages from a given date.
 ## Features
 
 - Filters package files by a specified datetime
-- Powered by [PEP 691](https://peps.python.org/pep-0691/) and [PEP 700](https://peps.python.org/pep-0691/) to quickly filter packages after the given time
+- Powered by [PEP 691](https://peps.python.org/pep-0691/) and [PEP 700](https://peps.python.org/pep-0700/) to quickly filter packages after the given time
 - Can point to any simple index that supports PEP 691 and PEP 700, not just PyPI
 
 ## Installation
